@@ -1,0 +1,11 @@
+{
+  "name": "hackday",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node build/main"
+  },
+  "dependencies": {
+    "johnny-five": "git+ssh://git@github.com:rwldrn/johnny-five.git"
+  }
+}

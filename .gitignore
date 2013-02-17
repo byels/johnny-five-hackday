@@ -1,0 +1,13 @@
+*.un~
+/build
+/node_modules
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
