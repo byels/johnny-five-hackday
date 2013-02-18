@@ -1,4 +1,4 @@
-# Hackday with Arduino and Johnny-Five and Clojurescript @ Levo League
+# Hackday with [Arduino](http://www.arduino.cc) and [Johnny-Five](https://github.com/rwldrn/johnny-five) and [Clojurescript](https://github.com/clojure/clojurescript) @ [Levo League](http://www.levoleague.com/)
 
 Converts stdin to Braile (Arduino/shift register/LEDs not included)
 
